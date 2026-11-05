@@ -5,4 +5,5 @@ server/uploads/
 .env.*
 !.env.example
 !**/.env.example
+!client/.env.production
 *.log
